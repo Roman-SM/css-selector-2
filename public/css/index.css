@@ -2,7 +2,7 @@
   background-color: yellow;
   color: red;
 }
-.lesson-four-task-two:hover > a {
+.lesson-four-task-two > .link:hover + .title {
   background-color: green;
 }
 #lesson-four-task-three > a:visited {
